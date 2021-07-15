@@ -6,5 +6,16 @@ Edad 28 años
 Estudiante de Desarrollo web en Platzi
 Aun vive en casa de sus padres
 
+<<<<<<< HEAD
 telefono celular 3218242483
 direcion de casa carrera 19 51 28
+=======
+
+
+
+
+Claudia es una persona muy sociable, divertida, graciosa, no le gusta hacer
+ejercicio pero sabe que debe hacerlo, le gusta la literatura y lo artistico y creativo
+tiene un perro fiel llamado Berlin. 
+
+>>>>>>> cambios_biograficos
