@@ -19,3 +19,4 @@ ejercicio pero sabe que debe hacerlo, le gusta la literatura y lo artistico y cr
 tiene un perro fiel llamado Berlin. 
 
 >>>>>>> cambios_biograficos
+vamos a hacer mas cambios, esta vez para probar a donde se envian los cambios. 
