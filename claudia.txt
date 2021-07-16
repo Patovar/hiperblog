@@ -20,3 +20,5 @@ tiene un perro fiel llamado Berlin.
 
 >>>>>>> cambios_biograficos
 vamos a hacer mas cambios, esta vez para probar a donde se envian los cambios. 
+
+cambios para saber si funciona la llave publica
