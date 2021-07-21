@@ -14,3 +14,4 @@ Claudia es una persona muy sociable, divertida, graciosa, no le gusta hacer
 ejercicio pero sabe que debe hacerlo, le gusta la literatura y lo artistico y creativo
 tiene un perro fiel llamado Berlin. 
 
+PRUEBA PARA ENVIAR A LA RAMA CAMBIOS_BIOGRAFICOS DEL REPOSITORIO REMOTO
