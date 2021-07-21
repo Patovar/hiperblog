@@ -1,2 +1,4 @@
 # hiperblog
-Un blog para platzi 
+Un blog para platzi
+
+esperanza orozco estuvo aqui 
